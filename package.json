@@ -1,0 +1,16 @@
+{
+"name": "roosterrumblepg",
+"theme": "rooster rumble pg",
+"version": "6.5.1",
+"description": "rooster rumble pg สมัครเว็บไซต์แทงบอลเว็บตรง ไม่มีขั้นต่ำ แจกเงินเครดิตฟรี",
+"keywords": [
+"rooster rumble pg",
+"rooster rumble pg เครดิตฟรี",
+"rooster rumble pg ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/roosterrumblepg",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
